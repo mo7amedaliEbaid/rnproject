@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { RAPID_API_KEY } from '../secrets';
+import { RAPID_API_KEY } from '../constants/secrets';
 
 const rapidApiKey= RAPID_API_KEY;
 
